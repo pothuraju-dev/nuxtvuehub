@@ -11,7 +11,8 @@ Welcome to NuxtVue Hub, this will be the center for all things related to Vue.js
 5. [Github Repositories](#github-repositories)
 6. [Libraries](#libraries)
 7. [LinkedIn Profiles](#linkedin-profiles)
-8. [About Me](#about-me)
+8. [Connect with Me](#connect-with-me)
+9. [About Me](#about-me)
 
 ---
 ## Articles
@@ -168,10 +169,6 @@ Welcome to NuxtVue Hub, this will be the center for all things related to Vue.js
 
 [Evan You: What you're doing wrong with Vue.js](https://www.youtube.com/watch?v=M2f-66jP8VQ)
 
-[]
-
-
-
 ### Nuxt
 
 [Type-safe routing in Nuxt](https://www.youtube.com/watch?v=SXk-L19gTZk)
@@ -181,7 +178,6 @@ Welcome to NuxtVue Hub, this will be the center for all things related to Vue.js
 [Using defineProps with TypeScript](https://www.youtube.com/watch?v=fA0ezJCGMuA)
 
 [Server Rendering and Global State](https://www.youtube.com/watch?v=dZSNW07sO-A)
-
 
 ## Courses
 
@@ -220,6 +216,10 @@ Welcome to NuxtVue Hub, this will be the center for all things related to Vue.js
 
 ## Github Repositories
 
+[Vue](https://github.com/vuejs/)
+
+[Nuxt](https://github.com/nuxt/nuxt)
+
 ## Libraries
 
 [VueUse](https://vueuse.org/)
@@ -231,5 +231,25 @@ Welcome to NuxtVue Hub, this will be the center for all things related to Vue.js
 [NuxtImage](https://image.nuxt.com/)
 
 ## LinkedIn Profiles
+Connect with industry professionals and stay informed about Vue.js and Nuxt.js updates by following these LinkedIn profiles:
+
+- [Yuxi (Evan) You](https://www.linkedin.com/in/evanyou/)
+- [Alexander Lichter](https://www.linkedin.com/in/alexanderlichter/)
+- [Daniel Roe](https://www.linkedin.com/in/daniel-roe/)
+- [Sébastien Chopin](https://www.linkedin.com/in/atinux/)
+- [Jakub Andrzejewski](https://www.linkedin.com/in/jakub-andrzejewski/)
+- [Daniel Kelly](https://www.linkedin.com/in/danielkellyio/)
+
+## Connect with Me
+
+Stay updated with the latest Vue.js and Nuxt.js news and tutorials by following me on social media:
+
+- LinkedIn: [Pothuraju Dev](https://www.linkedin.com/in/pothuraju-dev/)
 
 ## About Me
+Hello! I'm a dynamic and results-oriented Front End Developer with over 3 years of experience specializing in Vue.js and front-end development. My passion lies in creating intuitive, user-centered solutions, and I'm adept at translating UI/UX design wireframes into responsive and scalable web applications.
+
+Throughout my career, I have honed my problem-solving skills and developed a collaborative mindset, which allows me to effectively address and understand the business issues related to my projects. My expertise in front-end development and Vue.js has equipped me to tackle a variety of challenges, ensuring that the solutions I provide not only meet but exceed expectations.
+
+I am particularly enthusiastic about contributing to the Vue/Nuxt framework community. I believe in the power of open-source development and the collective growth that comes from sharing knowledge and resources. By leveraging my skills and experience, I aim to contribute to innovative projects in web and mobile technologies, pushing the boundaries of what is possible in front-end development.
+
