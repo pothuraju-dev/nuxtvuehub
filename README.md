@@ -245,6 +245,8 @@ Connect with industry professionals and stay informed about Vue.js and Nuxt.js u
 Stay updated with the latest Vue.js and Nuxt.js news and tutorials by following me on social media:
 
 - LinkedIn: [Pothuraju Dev](https://www.linkedin.com/in/pothuraju-dev/)
+- Portfolio: https://pothuraju-sri-ram.vercel.app/
+- Resume: [P Sri Ram Kumar](https://docs.google.com/document/d/1tN6IIvwK7-vS3QQCUkpiXovnmgiw02vmA6F8fVsOf0o/edit?usp=sharing)
 
 ## About Me
 Hello! I'm a dynamic and results-oriented Front End Developer with over 3 years of experience specializing in Vue.js and front-end development. My passion lies in creating intuitive, user-centered solutions, and I'm adept at translating UI/UX design wireframes into responsive and scalable web applications.
