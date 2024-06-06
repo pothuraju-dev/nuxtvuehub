@@ -120,6 +120,8 @@ Welcome to NuxtVue Hub, this will be the center for all things related to Vue.js
 
 [Understanding and Measuring Nuxt Performance - Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/understanding-and-measuring-nuxt-performance-vue-js-3-performance/)
 
+[Modular site architecture with Nuxt Layers](https://davestewart.co.uk/blog/nuxt-layers/)
+
 ### Miscellaneous
 
 [Ref vs Reactive in Stores](https://masteringpinia.com/blog/ref-vs-reactive-in-stores)
