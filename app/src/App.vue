@@ -1,9 +1,14 @@
 <script setup lang="ts">
+import { RouterView } from 'vue-router';
+
 </script>
 
 <template>
   <div class="container">
     <p>NuxtVue Hub </p><img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <div>
+      <RouterView />
+    </div>
   </div>
 
 </template>
@@ -11,6 +16,7 @@
 <style scoped>
 .container {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
