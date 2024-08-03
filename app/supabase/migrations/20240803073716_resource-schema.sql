@@ -1,7 +1,4 @@
-## Database
-
-```
-drop table if exists projects;
+drop table if exists resources;
 
 drop type if exists categories;
 create type categories as enum ('documentation', 'tutorial', 'blog', 'article', 'example');
@@ -10,6 +7,7 @@ create table resources (
     id bigint primary key generated always as identity not null,
     created_at timestamptz default now() not null,
     title text unique not null,
+    slug text unique not null,
     url text unique not null,
     author text not null,
     published_date timestamptz,
@@ -17,12 +15,3 @@ create table resources (
     category categories not null,
     tags text array default array[]::varchar[] not null
 );
-```
-
-## Faker JS
-|usecase|link|
-|---|---|
-|get random urls|https://fakerjs.dev/api/internet.html#url|
-|get random title|https://fakerjs.dev/api/lorem.html#text|
-|get random descriptions|https://fakerjs.dev/api/lorem.html#paragraphs|
-|get random published dates|https://fakerjs.dev/api/date.html#past|

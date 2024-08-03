@@ -1,9 +1,9 @@
 <template>
     <div>
-        <h1>Resources Page</h1>
+        <h1>Questions Page</h1>
         <RouterLink to="/">Home</RouterLink>
-        <div v-for="resource in resources" :key="resource.id">
-            <p>{{ resource.title }}</p>
+        <div v-for="question in questions" :key="question.id">
+            <p>{{ question.question }}</p>
         </div>
     </div>
 </template>
@@ -13,17 +13,17 @@ import { supabase } from '@/lib/supabaseClient';
 import { ref } from 'vue'
 import type { Tables } from '../../../database/types';
 
-const resources = ref<Tables<'resources'>[] | null>(null)
+const questions = ref<Tables<'interview_questions'>[] | null>(null)
 
     ; (async () => {
         const { data, error } = await supabase
-            .from('resources')
+            .from('interview_questions')
             .select()
 
         if (error) console.log("error", error)
 
-        resources.value = data
-        console.log(resources)
+        questions.value = data
+        console.log(questions)
     })()
 
 
