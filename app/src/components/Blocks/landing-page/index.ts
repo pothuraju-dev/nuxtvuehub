@@ -1,0 +1,5 @@
+export {default as FeaturesBlock} from './FeaturesBlock.vue'
+export {default as FAQBlock} from './FAQBlock.vue'
+export {default as TestimonialsBlock} from './TestimonialsBlock.vue'
+export {default as GetStartedBlock} from './GetStartedBlock.vue'
+export {default as HeroBlock} from './HeroBlock.vue'

@@ -24,8 +24,10 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",
+    "@vueuse/core": "^10.11.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "iconify-icon": "^2.1.0",
     "lucide-vue-next": "^0.424.0",
     "pinia": "^2.1.7",
     "radix-vue": "^1.9.2",
