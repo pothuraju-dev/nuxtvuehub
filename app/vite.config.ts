@@ -15,6 +15,10 @@ export default defineConfig({
       plugins: [tailwind(), autoprefixer()],
     },
   },
+  test: {
+    globals: true,
+    setupFiles: "src/setupTests.ts"
+  },
   plugins: [
     VueRouter(),
     vue({
